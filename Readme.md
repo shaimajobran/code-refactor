@@ -9,11 +9,10 @@
 -Heading attributes are viewd <h1,h2,h3> and they fall in sequential order.
 -Title element is viewd <title>.
 -Title is concise and describtive.
-
 ```
 # sceenshots
-![screenshot](assets\images\Screenshot-2021-02-23-112441.png)
-![screenshot](assets\images\Screenshot-2021-02-23-112530.png)
+![alt](assets\images\Screenshot-2021-02-23-112441.png)
+![alt](assets\images\Screenshot-2021-02-23-112530.png)
 
 
 # website links
