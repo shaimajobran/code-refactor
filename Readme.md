@@ -11,8 +11,8 @@
 -Title is concise and describtive.
 ```
 # sceenshots
-![alt text](assets\images\Screenshot-2021-02-23-112441.png)
-![alt text](assets\images\Screenshot-2021-02-23-112530.png)
+![](assets\images\Screenshot-2021-02-23-112441.png)
+![](assets\images\Screenshot-2021-02-23-112530.png)
 
 
 # website links
