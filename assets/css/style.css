@@ -1,4 +1,4 @@
-* {
+ *{
     box-sizing: border-box;
     padding: 0;
     margin: 0;
@@ -24,6 +24,7 @@ body {
     color: white;
 }
 
+/*changed elemment to nav*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -87,29 +88,30 @@ p {
     width: 20%;
     height: 200%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /*changed color for Acsessibility*/
     background-color: #0072bb;
 }
-
+/*Grouped the selector because have the same style definitions to make css dry*/
 .benefit-lead ,.benefit-brand,.benefit-cost{
     margin-bottom: 32px;
     color: #ffffff;
 
 }
 
-
+/*Grouped selectors because they have the same style definitions to make css dry*/
 .benefit-lead h3,.benefit-brand h3,.benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
     
 }
 
-
+/*Grouped selectors because they have the same style definitionsto make css dry*/
 .benefit-lead img,.benefit-brand img,.benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*Grouped selectors because they have the same style definitionsto make css dry*/
 .search-engine-optimization ,.online-reputation-management ,.social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -118,17 +120,16 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*Gouped  selectors because they have the same style definitions  to make css dry*/
 .search-engine-optimization img ,.online-reputation-management img ,.social-media-marketing img {
     max-height: 200px;
 }
 
-
+/*Grouped selectors because they  have the same style definitions to make css dry*/
 .search-engine-optimization h2,.online-reputation-management h2,.social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
 
 
 .footer {
